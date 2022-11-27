@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Escolha uma carta do escudo",
+    "value": ""
+  },
+  {
+    "id": 2,
+    "name": "Sapo de Thara",
+    "type": "humonoid",
+    "value": 30
+  },
+  {
+    "id": 3,
+    "name": "Besouro-Chifre",
+    "type": "long",
+    "value": 35
+  }
+]

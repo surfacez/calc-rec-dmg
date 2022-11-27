@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Escolha o acessorio",
+    "value": ""
+  },
+  {
+    "id": 2,
+    "name": "Anel Glorioso",
+    "type": "element",
+    "value": 10
+  },
+  {
+    "id": 3,
+    "name": "Crocodilo",
+    "type": "long",
+    "value": 5
+  }
+]

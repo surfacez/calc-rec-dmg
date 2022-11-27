@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Escolha uma carta da capa",
+    "value": ""
+  },
+  {
+    "id": 2,
+    "name": "Nuvem toxica",
+    "type": "nuvem_toxica",
+    "value": 10
+  },
+  {
+    "id": 3,
+    "name": "Raydric",
+    "type": "element",
+    "value": 20
+  },
+  {
+    "id": 4,
+    "name": "Devilling",
+    "type": "element",
+    "value": 50
+  },
+  {
+    "id": 5,
+    "name": "Sobrepeliz Glorioso",
+    "type": "humonoid",
+    "value": 5
+  },
+  {
+    "id": 6,
+    "name": "Goibne's Spaulders",
+    "type": "long",
+    "value": 10
+  }
+]
